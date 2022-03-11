@@ -1,3 +1,2 @@
-기본
-this is calc
-낄낄낄
+def add(a, b):
+    return a+b;
